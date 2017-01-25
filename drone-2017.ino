@@ -5,7 +5,7 @@
 // JDS 2017
 // Suite de Edit2. On s'amuse beaucoup !
 // JDS 2017
-// Suite de Edit2. On s'amuse beaucoup !
+// Suite de Edit2. On s'amuse beaucoup ! bbbbbbbbbbbbbbbbbbbbbbbbbb
 
 #define DELROUGE          A3
 #define DELVERTE          A2
